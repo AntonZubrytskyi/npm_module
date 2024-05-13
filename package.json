@@ -1,0 +1,19 @@
+{
+  "name": "ects-zubrytskyi-anton",
+  "version": "1.0.0",
+  "description": "Converts scores from the 100-point grading system to the ECTS format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonZubrytskyi/npm_module.git"
+  },
+  "author": "Anton <mranton19@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonZubrytskyi/npm_module/issues"
+  },
+  "homepage": "https://github.com/AntonZubrytskyi/npm_module#readme"
+}
